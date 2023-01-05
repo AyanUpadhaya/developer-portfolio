@@ -18,8 +18,8 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 50px 200px;
-  padding-top: 50px;
+  padding: 50px 200px;
+  /* padding-top: 50px; */
 }
 
 .nav-title {
